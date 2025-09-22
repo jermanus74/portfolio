@@ -1,0 +1,21 @@
+{
+  "name": "Future Tech Developer Portfolio",
+  "short_name": "Future Tech Portfolio",
+  "description": "Portfolio of Future Tech, a passionate fullstack developer crafting modern web experiences.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b6712",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

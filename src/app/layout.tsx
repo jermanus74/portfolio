@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     siteName: "Jermanus Portfolio",
     images: [
       {
-        url: "/og-image.png",
+        url: "/apple-touch-icon.png",
         width: 1200,
         height: 630,
         alt: "Jermanus - Fullstack Developer Portfolio",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     description:
       "Portfolio of Jermanus, a passionate fullstack developer crafting modern web experiences.",
     creator: "@jermanus",
-    images: ["/og-image.png"],
+    images: ["/apple-touch-icon.png"],
   },
   robots: {
     index: true,
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
   },
   manifest: "/manifest.json",
   generator: "Next.js",
-  applicationName: "Jermanus Portfolio",
+  applicationName: "FUTURE-TECH",
   referrer: "origin-when-cross-origin",
   category: "technology",
 };
