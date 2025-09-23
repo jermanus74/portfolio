@@ -5,7 +5,7 @@ export function StructuredData() {
     name: "Jermanus",
     jobTitle: "Fullstack Developer",
     description: "Passionate fullstack developer crafting modern web experiences with cutting-edge technologies.",
-    url: "https://jermanus.dev",
+    url: "https://jermanus-portfolio.vercel.app/",
     sameAs: ["https://github.com/jermanus74", "https://linkedin.com/in/jermanus"],
     knowsAbout: [
       "React",
@@ -17,7 +17,7 @@ export function StructuredData() {
       "Full Stack Development",
       "UI/UX Design",
     ],
-    email: "hello@jermanus.dev",
+    email: "simbasjowzey@gmail.com",
     address: {
       "@type": "PostalAddress",
       addressLocality: "Remote",
