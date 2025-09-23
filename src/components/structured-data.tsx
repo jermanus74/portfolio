@@ -4,12 +4,12 @@ export function StructuredData() {
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://jermanus-portfolio.vercel.app/#person",
+        "@id": "https://portfolio.uzika.me/#person",
         name: "Jermanus",
         jobTitle: "Fullstack Developer",
         description:
           "Passionate fullstack developer crafting modern web experiences with cutting-edge technologies.",
-        url: "https://jermanus-portfolio.vercel.app/",
+        url: "https://portfolio.uzika.me/",
         image: "https://github.com/jermanus74.png",
         sameAs: [
           "https://github.com/jermanus74",
@@ -39,27 +39,27 @@ export function StructuredData() {
       },
       {
         "@type": "WebSite",
-        "@id": "https://jermanus-portfolio.vercel.app/#website",
-        url: "https://jermanus-portfolio.vercel.app/",
+        "@id": "https://portfolio.uzika.me/#website",
+        url: "https://portfolio.uzika.me/",
         name: "Jermanus Portfolio",
         description:
           "Portfolio of Jermanus, a passionate fullstack developer crafting modern web experiences.",
         publisher: {
-          "@id": "https://jermanus-portfolio.vercel.app/#person"
+          "@id": "https://portfolio.uzika.me/#person"
         }
       },
       {
         "@type": "WebPage",
-        "@id": "https://jermanus-portfolio.vercel.app/#webpage",
-        url: "https://jermanus-portfolio.vercel.app/",
+        "@id": "https://portfolio.uzika.me/#webpage",
+        url: "https://portfolio.uzika.me/",
         name: "Jermanus - Fullstack Developer",
         description:
           "Portfolio of Jermanus, a passionate fullstack developer crafting modern web experiences.",
         isPartOf: {
-          "@id": "https://jermanus-portfolio.vercel.app/#website"
+          "@id": "https://portfolio.uzika.me/#website"
         },
         about: {
-          "@id": "https://jermanus-portfolio.vercel.app/#person"
+          "@id": "https://portfolio.uzika.me/#person"
         }
       }
     ]
