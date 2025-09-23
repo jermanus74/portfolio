@@ -37,14 +37,14 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Jermanus" }],
   creator: "Jermanus",
-  metadataBase: new URL("https://jermanus-portfolio.vercel.app"),
+  metadataBase: new URL("https://portfolio.uzika.me/"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://jermanus-portfolio.vercel.app",
+    url: "https://portfolio.uzika.me/",
     title: "Jermanus - Fullstack Developer",
     description:
       "Portfolio of Jermanus, a passionate fullstack developer crafting modern web experiences.",
